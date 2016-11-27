@@ -1,1 +1,0 @@
-![Bild webbutveckling](img/img-about.jpg)
