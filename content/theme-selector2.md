@@ -1,3 +1,29 @@
+---
+views:
+    breadcrumb:
+        region: breadcrumb
+        template: default/breadcrumb
+        data:
+            meta: 
+                type: breadcrumb
+
+    flash:
+        region: flash
+        template: default/image
+        data:
+            src: "img/flash-img.png"
+            
+    byline:
+        region: after-main
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/byline
+
+...
+
 <?php
 /**
  * Theme selector in the design course.
@@ -23,7 +49,7 @@
                     ? $separator
                     : "$key - " . $value["title"];
             ?>
-                <option value="<?= $key ?>" <?= $selected ?> <?= $separate ?>>
+                <option value="<?= $key ?> <?= $selected ?> <?= $separate ?>">
                     <?= $value ?>
                 </option>
             <?php endforeach; ?>

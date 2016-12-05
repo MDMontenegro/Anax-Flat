@@ -1,1 +1,1 @@
-![Bild webbutveckling](img/img-about.jpg)
+![Bild webbutveckling](img/img-about-bw.png)
