@@ -1,4 +1,4 @@
-## Analys av webbsidor
+## Analys av färgschema
 <!--===============================-->
 
 #### Naturskyddsföreningen
@@ -81,15 +81,15 @@ förknippas med deras innehåll och deras magazine.
 
 
 
-#### Clas Ohlsson
+#### Clas Ohlson
 
 1. Printscreen på hemsida.
 
-   ![Clas Ohlssons hemsida](img/analys/clasOhlsson.jpg)
+   ![Clas Ohlsons hemsida](img/analys/clasOhlsson.jpg)
 
 2. Färgpalett
 
-   ![Clas Ohlssons färgpalett](img/analys/palettClas.jpg)
+   ![Clas Ohlsons färgpalett](img/analys/palettClas.jpg)
    
 Hemsidan använder en variation av ett delat komplementärt (split complimentary) färgschema. 
 Färgerna som används är nyanser av blå som komplementerar mot en orange färg och en röd färg som

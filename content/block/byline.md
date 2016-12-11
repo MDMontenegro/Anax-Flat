@@ -1,1 +1,2 @@
-*Maria Dahlberg Montenegro* studerar webbprogrammering på Blekinge Tekniska Högskola.
+*Maria Dahlberg Montenegro* 
+<!--studerar webbprogrammering på Blekinge Tekniska Högskola.-->

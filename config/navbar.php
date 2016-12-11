@@ -39,6 +39,18 @@ return [
                 "title" => t("About this website")
             ],
             
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("About this website")
+            ],
+            
+            "blog" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blog"),
+                "title" => t("About this website")
+            ],
+            
             "theme" => [
                 "text"  => t("Tema"),
                 "url"   => $this->di->get("url")->create("theme"),
@@ -89,6 +101,18 @@ return [
             "typography" => [
                 "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("About this website")
+            ],
+            
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("About this website")
+            ],
+            
+            "blog" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blog"),
                 "title" => t("About this website")
             ],
             
