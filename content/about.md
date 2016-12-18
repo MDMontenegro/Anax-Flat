@@ -1,13 +1,13 @@
 ---
-views:
+views:                
     sidebar:
-            region: sidebar-right
-            template: default/content
-            sort: 1
-            data:
-                meta:
-                    type: content
-                    route: block/img-about
+        region: sidebar-right
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/img-about
                 
 ...
 

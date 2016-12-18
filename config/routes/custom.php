@@ -79,10 +79,10 @@ $app->router->add("theme-selector", function () use ($app) {
 
     // Prepare the resulting page
     $app->theme->setTitle("Välj tema");
-    $app->views->add("default/image", [
-        "src" => "img/flash-img5.png",
-        "alt" => "Flash img"
-    ], "flash");
+    $app->views->add("default/content", [
+        "meta" => ["type" => "content"],
+		"meta" => ["route" => "block/flash-empty"],
+		"meta" => ["class" => "flash-img"]], "flash");
     $app->views->add("default/breadcrumb", [
         "meta" => ["type" => "breadcrumb"],
         "breadcrumb" => [[

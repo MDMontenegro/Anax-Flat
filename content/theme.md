@@ -1,7 +1,7 @@
-## Tema
+## Färgteman
 <!--==============================================-->
 
-Här presenterar jag de olika teman som jag skapat.
+Här presenterar jag de olika teman som jag skapat utifrån att använda olika färger.
 
 Du kan välja ett tema och se hur det ser ut genom [temaväljaren](theme-selector)
 

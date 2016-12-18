@@ -51,11 +51,36 @@ return [
                 "title" => t("About this website")
             ],
             
-            "theme" => [
-                "text"  => t("Tema"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("About this website")
+            "themes" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("themes"),
+                "title" => t("About this website"),
+                "submenu" => [
+                    "items" => [
+                        "theme" => [
+                            "text"  => t("Färg teman"),
+                            "url"   => $this->di->get("url")->create("theme"),
+                            "title" => t("About this website")
+                        ],
+                        "design-principle" => [
+                            "text"  => t("Design principer"),
+                            "url"   => $this->di->get("url")->create("design-principle"),
+                            "title" => t("About this website")
+                        ],
+                        "design-element" => [
+                            "text"  => t("Design element"),
+                            "url"   => $this->di->get("url")->create("design-element"),
+                            "title" => t("About this website")
+                        ],
+                    ],
+                ],
             ],
+            
+            /*"design-principle" => [
+                "text"  => t("Design principer"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("About this website")
+            ],*/
             
             "analysis" => [
                 "text"  => t("Analys"),
@@ -116,11 +141,36 @@ return [
                 "title" => t("About this website")
             ],
             
-            "theme" => [
-                "text"  => t("Tema"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("About this website")
+            "themes" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("themes"),
+                "title" => t("About this website"),
+                "submenu" => [
+                    "items" => [
+                        "theme" => [
+                            "text"  => t("Färg teman"),
+                            "url"   => $this->di->get("url")->create("theme"),
+                            "title" => t("About this website")
+                        ],
+                        "design-principle" => [
+                            "text"  => t("Design principer"),
+                            "url"   => $this->di->get("url")->create("design-principle"),
+                            "title" => t("About this website")
+                        ],
+                        "design-element" => [
+                            "text"  => t("Design element"),
+                            "url"   => $this->di->get("url")->create("design-element"),
+                            "title" => t("About this website")
+                        ],
+                    ],
+                ],
             ],
+            
+            /*"design-principle" => [
+                "text"  => t("Design principer"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("About this website")
+            ],*/
             
             "analysis" => [
                 "text"  => t("Analys"),

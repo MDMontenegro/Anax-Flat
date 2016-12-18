@@ -2,10 +2,13 @@
 views:
     flash:
         region: flash
-        template: default/image
+        template: default/content
         data:
-            src: "img/flash-img5.png"
-            
+            meta:
+                type: content
+                route: block/flash-empty
+                class: "flash-img"
+           
     main:
         template: default/article
         data:

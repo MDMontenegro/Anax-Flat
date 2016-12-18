@@ -16,7 +16,7 @@ category:
 
 Härlig och solig promenad med min hund Eddy.
 
-[FIGURE src="cimage/imgd.php?src=eddy2.jpg&w=c12"]
+[FIGURE src="cimage/imgd.php?src=eddy2.JPG&w=c12"]
 
 <!--more-->
 Den här bilden är tagen på en promenad till en sjö. Ännu en gång fick min hund Eddy
@@ -24,15 +24,15 @@ agera modell. Jag tog bilden i motljus och från markytan. Det gav en häftig ef
 
 *Bilden ovan är originalbilden som jag har anpassat i storlek med hjälp av cimage.* 
 
-[FIGURE src="cimage/imgd.php?src=eddy2.jpg&w=c12&r=180"]
+[FIGURE src="cimage/imgd.php?src=eddy2.JPG&w=c12&r=180"]
 
 *Här har jag roterat bilden i 180°.*
 
-[FIGURE src="cimage/imgd.php?src=eddy2.jpg&w=c12&convolve=lighten"]
+[FIGURE src="cimage/imgd.php?src=eddy2.JPG&w=c12&convolve=lighten"]
 
 *På den här bilden använder jag filtret convolve för att ljusa upp bilden.*
 
-[FIGURE src="cimage/imgd.php?src=eddy2.jpg&w=c12&f=negate"]
+[FIGURE src="cimage/imgd.php?src=eddy2.JPG&w=c12&f=negate"]
 
 *Här har jag använt filtret negate som byter ut färgerna mot respektive kontrastfärg.*
 

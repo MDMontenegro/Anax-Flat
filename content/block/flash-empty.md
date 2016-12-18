@@ -1,0 +1,1 @@
+<div class="flash-img"></div>

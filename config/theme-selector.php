@@ -61,10 +61,40 @@ return [
 
         "separator2" => "------------------------------------------------",
 
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
-            "class"      => "fun",
-            "stylesheets" => ["css/fun.min.css"]
+        "tema1"       => [
+            "title"      => "Design principle - variaty and contrast",
+            "class"      => "tema1",
+            "stylesheets" => ["css/tema1.min.css"]
+        ],
+        
+        "tema2"       => [
+            "title"      => "Design principle - unity",
+            "class"      => "tema2",
+            "stylesheets" => ["css/tema2.min.css"]
+        ],
+        
+        "tema3"       => [
+            "title"      => "Design principle - movement",
+            "class"      => "tema3",
+            "stylesheets" => ["css/tema3.min.css"]
+        ],
+        
+        "tema4"       => [
+            "title"      => "Theme with design elements",
+            "class"      => "tema4",
+            "stylesheets" => ["css/tema4.min.css"]
+        ],
+        
+        "tema5"       => [
+            "title"      => "Theme with design elements",
+            "class"      => "tema5",
+            "stylesheets" => ["css/tema5.min.css"]
+        ],
+        
+        "tema6"       => [
+            "title"      => "Theme with design elements",
+            "class"      => "tema6",
+            "stylesheets" => ["css/tema6.min.css"]
         ],
     ]
 ];
