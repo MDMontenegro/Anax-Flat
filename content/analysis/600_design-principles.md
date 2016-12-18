@@ -19,6 +19,8 @@ Referenser som jag använt är [Visual literacy](https://dbwebb.se/article/vl.pd
 
 ##### [Webdesigner Depot](http://www.webdesignerdepot.com/)
 
+![Webdesigner Depot](img/analys/webDepot.jpg)
+
 1. Webbplatsen mål och syfte är att vara en samlingsplats/webbplats för webbdesigners där de kan hitta information, läsa bloggar, ta del av offerter/offers och läsa om nyheter inom webdesign etc.
 
 2. Webbplatsens design är färgglad och kontrastrik och använder en flat design, dvs ingen användning av skuggor eller 3d objekt på sidan. Webbplatsens innehåll tar upp i stort sett hela skärmen och ytan används maximalt, det finns inte så mycket negative space.
@@ -33,6 +35,8 @@ Referenser som jag använt är [Visual literacy](https://dbwebb.se/article/vl.pd
 
 ##### [WWF](http://www.wwf.se/)
 
+![WWF](img/analys/wwf.jpg)
+
 1. Webbplatsens syfte är att informera och engagera människor i wwfs arbete för att rädda natur och djur runt om i världen.
 
 2. Webbplatsens design är ganska neutral med mycket svart, vit och grått men den använder även färger främst blått men även rött. Den ger ett rent, propert och ganska platt intryck och använder ocskå en flat design utan skuggor eller 3d efekter.  Men alla foton som används hjälper att liva upp sidan och göra den mer intressant.
@@ -46,6 +50,8 @@ Referenser som jag använt är [Visual literacy](https://dbwebb.se/article/vl.pd
 
 ##### [SJ](https://www.sj.se/)
 
+![SJ](img/analys/sj.jpg)
+
 1. Webbplatsens syfte är att sälja tågbiljetter och ge information till resenärer.
 
 2. Webbplatsens design är ganska neutral med mycket vitt, svart och grått men det används även accentfärger på sidan. Även här används en flat design utan skuggor och 3d effekter.
@@ -58,6 +64,8 @@ Referenser som jag använt är [Visual literacy](https://dbwebb.se/article/vl.pd
 
 
 ##### [Svt Play](http://www.svtplay.se/)
+
+![Svt Play](img/analys/svtPlay.jpg)
 
 1. Sidans syfte är att visa tv-program online.
 
