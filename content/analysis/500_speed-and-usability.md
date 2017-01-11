@@ -1,7 +1,7 @@
 ## Analys av laddningstid och användbarhet
 <!--===============================-->
 
-#### Urval av webbsidor
+##### Urval av webbsidor
 
 Jag valde att göra analysen på de webbsidor som jag använde i förra momentet.
 Det är lite olika typer av webbsidor, eventuellt skulle jag ha bytt ut Fria Tidningens
@@ -12,7 +12,7 @@ Elles hemsida är ganska omfattande med mycket bilder och en hel del reklam på 
 
 
 
-#### Beskrivning av metod
+##### Metod
 
 Jag testade först sidorna med PageSpeed Insight som analyserar webbsidornas prestanda/ utförande
 (site performance). Genom att klistra in länken till sidan i PageSpeed så görs en analys av sidan.
@@ -27,7 +27,7 @@ kollade jag på hur själva upplevelsen av hur snabbt sidan visades var.
 
 
 
-#### Resultat av mätning
+##### Resultat av mätning
 
 Här är resultatet av mätningen för alla sidor och snittet för varje mätning. Resultatet visas i ett
 excelark.
@@ -35,9 +35,7 @@ excelark.
 
 
 
-#### Webbsidor
-
-##### Naturskyddsföreningen
+#### [Naturskyddsföreningen](http://www.naturskyddsforeningen.se/)
 
 ![Naturskyddsföreningens hemsida](img/analys/natur.jpg)
 
@@ -68,7 +66,7 @@ dessa filer. Sidan skulle också vinna på att optimera bilderna som används.
    
    
    
-##### Fria Tidningen
+#### [Fria Tidningen](http://www.fria.nu/)
 
 ![Fria Tidningens hemsida](img/analys/fria.jpg)
 
@@ -99,7 +97,7 @@ skulle få snabbare laddningstider om de även minifierade sin javascript.
 
    
    
-##### Elle
+#### [Elle](http://www.elle.se/)
 
 ![Elles hemsida](img/analys/elle.jpg)
 
@@ -131,7 +129,7 @@ möjliggöra komprimering av data. Elle var den enda sidan som inte hade minifie
 använde komprimering.
    
    
-##### Clas Ohlson
+#### [Clas Ohlson](http://www.clasohlson.com/se/)
 
 ![Clas Ohlssons hemsida](img/analys/clasOhlsson.jpg)
 

@@ -26,8 +26,10 @@ return [
             "stylesheets" => [
                 //"css/style.min.css",
                 //"css/base.min.css",
-                "css/default.min.css",
-                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+                //"css/default.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", 
+                "https://fonts.googleapis.com/css?family=Arvo|Open+Sans:300", 
+                "css/typography-theme.min.css"
             ],
             "styleInline" => null,
 

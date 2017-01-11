@@ -81,8 +81,8 @@ $app->router->add("theme-selector", function () use ($app) {
     $app->theme->setTitle("Välj tema");
     $app->views->add("default/content", [
         "meta" => ["type" => "content"],
-		"meta" => ["route" => "block/flash-empty"],
-		"meta" => ["class" => "flash-img"]], "flash");
+        "content" => "<div class='flash-img'></div>"
+    ], "flash");
     $app->views->add("default/breadcrumb", [
         "meta" => ["type" => "breadcrumb"],
         "breadcrumb" => [[

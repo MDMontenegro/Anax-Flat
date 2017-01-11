@@ -1,7 +1,7 @@
 ## Analys av färgschema
 <!--===============================-->
 
-#### Naturskyddsföreningen
+#### [Naturskyddsföreningen](http://www.naturskyddsforeningen.se/)
 
 1. Printscreen på hemsida.
 
@@ -27,7 +27,7 @@ Eftersom de vill locka besökaren till att göra ett val och vara aktiv som stö
 
 
 
-#### Fria Tidningen
+#### [Fria Tidningen](http://www.fria.nu/)
 
 1. Printscreen på hemsida.
 
@@ -54,7 +54,7 @@ och det finns inte många element som stör själva läsningen utan sidan använ
 
 
 
-#### Elle
+#### [Elle](http://www.elle.se/)
 
 1. Printscreen på hemsida.
 
@@ -81,7 +81,7 @@ förknippas med deras innehåll och deras magazine.
 
 
 
-#### Clas Ohlson
+#### [Clas Ohlson](http://www.clasohlson.com/se/)
 
 1. Printscreen på hemsida.
 

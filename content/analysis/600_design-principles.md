@@ -1,6 +1,6 @@
-## Analys av designprinciper på webbplatser
+## Analys av designprinciper
 
-#### Urval av webbsidor
+##### Urval av webbsidor
 
 Första webbsidan som jag valde var Webdesigner Depot som har med just webbdesign att göra.
 Jag tänkte att det kan vara intressant att se hur sidan själva använder designprinciper.
@@ -15,9 +15,8 @@ Referenser som jag använt är [Visual literacy](https://dbwebb.se/article/vl.pd
 [Designschool](https://designschool.canva.com/design-elements-principles/) och [Design Principles](http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf)
 
 
-#### Webbsidor
 
-##### [Webdesigner Depot](http://www.webdesignerdepot.com/)
+#### [Webdesigner Depot](http://www.webdesignerdepot.com/)
 
 ![Webdesigner Depot](img/analys/webDepot.jpg)
 
@@ -33,7 +32,7 @@ Referenser som jag använt är [Visual literacy](https://dbwebb.se/article/vl.pd
 
 
 
-##### [WWF](http://www.wwf.se/)
+#### [WWF](http://www.wwf.se/)
 
 ![WWF](img/analys/wwf.jpg)
 
@@ -48,7 +47,7 @@ Referenser som jag använt är [Visual literacy](https://dbwebb.se/article/vl.pd
 5. Även här använder både startsidan coh undersidorna samma design. Även undersidorna har en stor flash-bild under menyn och använder förhållandevis många bilder.
 
 
-##### [SJ](https://www.sj.se/)
+#### [SJ](https://www.sj.se/)
 
 ![SJ](img/analys/sj.jpg)
 
@@ -63,7 +62,7 @@ Referenser som jag använt är [Visual literacy](https://dbwebb.se/article/vl.pd
 5. Det är samma design på startsidan som på undersidorna. Hur designen ser ut varierar något, tex om det är två eller tre kolumner. men själva strukturen är den samma.
 
 
-##### [Svt Play](http://www.svtplay.se/)
+#### [Svt Play](http://www.svtplay.se/)
 
 ![Svt Play](img/analys/svtPlay.jpg)
 

@@ -2,9 +2,12 @@
 views:
     flash:
         region: flash
-        template: default/image
+        template: default/content
         data:
-            src: "img/flash-img5.png"
+            meta:
+                type: content
+                route: block/flash-empty
+                class: "flash-img"
             
 author: mamn15
 published: "2016-12-07"
@@ -16,7 +19,7 @@ category:
 
 Fint ljus över den tomma hagen.
 
-[FIGURE src="cimage/imgd.php?src=hage.JPG&w=c12"]
+[FIGURE src="cimage/imgd.php?src=blogg/hage.JPG&w=c12"]
 <!--more-->
 Jag tog bilden under en promenad förbi Säby Gård en vackert belägen herrgård.
 Det var en typisk vintereftermiddag med en lågt stående sol som gav väldigt vackert
@@ -24,15 +27,15 @@ ljus med långa skuggor.
 
 *Bilden ovan är originalbilden som jag har anpassat i storlek med hjälp av cimage.*
 
-[FIGURE src="cimage/imgd.php?src=hage.JPG&w=c12&f=grayscale"]
+[FIGURE src="cimage/imgd.php?src=blogg/hage.JPG&w=c12&f=grayscale"]
 
 *Den här bilden gjorde jag om till gråskala med ett filter.*
 
-[FIGURE src="cimage/imgd.php?src=hage.JPG&w=c12&f=contrast,-20"]
+[FIGURE src="cimage/imgd.php?src=blogg/hage.JPG&w=c12&f=contrast,-20"]
 
 *Här har jag ökat på kontrasten i bilden även det med ett filter.*
 
-[FIGURE src="cimage/imgd.php?src=hage.JPG&w=c12&f=smooth,0"]
+[FIGURE src="cimage/imgd.php?src=blogg/hage.JPG&w=c12&f=smooth,0"]
 
 *Här har jag använt filtret smooth inställt på 0, som gör bilden mjukare
 och suddigare.*
